@@ -1,4 +1,4 @@
-# Employee_Salary_Prediction
+
 # Employee Salary Prediction Using Machine Learning
 
 ## 📌 Project Overview
